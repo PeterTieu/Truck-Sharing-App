@@ -35,7 +35,7 @@
         <activity
             android:name=".MyOrdersActivity"
             android:exported="false"
-            android:label="@string/title_activity_home"
+            android:label="@string/title_activity_my_orders"
             android:theme="@style/Theme.TruckSharingApp" />
         <activity
             android:name=".OrderDetailsActivity"
